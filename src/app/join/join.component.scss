@@ -1,0 +1,101 @@
+.joinContent{
+    width: 100%;
+    height: 75vh;
+    background-color: #2F303A;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.joinText{
+    display: flex;
+    margin-top: 5rem;
+    font-size: 5rem;
+    color: white;
+    font-family: 'Poppins-bold';
+}
+.fun{
+    display: flex;
+    margin-top: 5rem;
+    padding-left: 1rem;
+    padding-right: 5rem;
+    font-family: 'Poppins-bold';
+    font-size: 5rem;
+    color: #961669;
+}
+.formContent{
+    width: 20rem;
+    height: 15rem;
+    margin-top: 1rem;
+    border-radius: 20px;
+    background-color:#202027;
+    font-family: 'Poppins-bold';
+    color: white;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: #2F3253 solid 1px;
+}
+.formLabel{
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 1rem;
+}
+.formBox{
+    border-radius: 5px;
+    background-color:#202027;
+    height: 2.5rem;
+    border: #2F3253 solid 1px;
+}
+.joinNow{
+    height: 1.5rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+    background-color:#2796ff;
+}
+.imgCircleOne{
+    background-color: #bc3a801a;
+    border-radius: 50%;
+    width: 40rem;
+    height: 40rem;
+    z-index: 0;
+    display: flex;
+    position: fixed;
+    bottom:-10%;
+    left:-5%; 
+}
+.imgCircleTwo{
+    background-color:#3457b21a;
+    border-radius: 50%;
+    width: 35rem;
+    height: 35rem;
+    z-index: 0;
+    position: fixed;
+    bottom:50%;
+    left:20%; 
+}
+.active{
+    font-family: 'Poppins-regular';
+    font-size: 1rem;
+    color: white;
+}
+
+@media(max-width:430px){
+    
+    .joinContent{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .imgCircleOne{
+        display: flex;
+        width: 2rem;
+        height: 2rem;
+    }
+    .imgCircleTwo{
+        width: 2rem;
+        height: 2rem;
+    }
+}
