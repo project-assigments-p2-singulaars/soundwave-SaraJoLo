@@ -49,9 +49,10 @@ Esta página de suscripción ha sido desarrollada como parte de una campaña de 
 
 ## Recursos
 -Imágenes: Las imágenes utilizadas se encuentran en la carpeta assets.
--[Mockup] https://simplonline-v3-prod.s3.eu-west-3.amazonaws.com/media/file/pdf/46391d6c-b766-4ed3-a121-72c9b2a15960.pdf
+-[Mockup] (https://simplonline-v3-prod.s3.eu-west-3.amazonaws.com/media/file/pdf/46391d6c-b766-4ed3-a121-72c9b2a15960.pdf)
 
 -Carta Gráfica: Nuestra página sigue la carta gráfica de SoundWave para mantener la identidad de marca.
 -Documentación Oficial Angular: Consultamos la documentación oficial de Angular para asegurarnos de seguir las mejores prácticas y aprovechar al máximo las características del framework.
 -Videos de youtube
--[Trello] https://trello.com/b/cHl4SWS6/soundwave-proyect
+-[Trello] (https://trello.com/b/cHl4SWS6/soundwave-proyect)
+[Deploy] (https://soundwavesaraprimero.netlify.app/)
